@@ -1,0 +1,8 @@
+Z:\CSharpProjecten\DnD\DnD\bin\Debug\DnD.exe.config
+Z:\CSharpProjecten\DnD\DnD\bin\Debug\DnD.exe
+Z:\CSharpProjecten\DnD\DnD\bin\Debug\DnD.pdb
+Z:\CSharpProjecten\DnD\DnD\bin\Debug\AdventureFramework.dll
+Z:\CSharpProjecten\DnD\DnD\bin\Debug\AdventureFramework.xml
+Z:\CSharpProjecten\DnD\DnD\obj\Debug\DnD.csprojResolveAssemblyReference.cache
+Z:\CSharpProjecten\DnD\DnD\obj\Debug\DnD.exe
+Z:\CSharpProjecten\DnD\DnD\obj\Debug\DnD.pdb
