@@ -1,0 +1,73 @@
+﻿body {
+    font-family: Arial;
+    background: silver;
+}
+header{
+    background: yellow;
+    height: 100px;
+    text-align: center;
+    text-shadow: #555 4px 4px 4px; /* color, h-offset, v-offset, blur */
+}
+nav{
+    background: green;
+    float: left;
+    width: 200px;
+}
+section{
+    background: red;
+    margin-left: 200px;
+}
+article{
+    background: white;
+}
+footer{
+    background: blue;
+    clear: both;
+}
+ul li{
+    background: #000;
+    list-style: none;
+    height: 44px;
+    padding: 10px 5px;
+    float: left;
+}
+ul li a{
+    display: block;
+    width: 175px;
+    height: 40px;
+    line-height: 53px;
+    padding: 0px;
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 4px solid #636393;
+    transition: .2s all linear;
+    -webkit-transition: .2s all linear; /*Oudere browsers*/ 
+    -moz-transition: 2s all linear; /*Oudere browsers*/ 
+    -o-transition: 2s all linear; /*Oudere browsers*/ 
+}
+li:nth-child(1) a{
+    border-color: #636393;
+}
+li:nth-child(2) a{
+    border-color: #B5222D;
+}
+li:nth-child(3) a{
+    border-color: #D4953C;
+}
+
+
+li:nth-child(1) a:hover{
+    border-bottom: 35px solid #636393;
+    height: 9px;
+}
+li:nth-child(2) a:hover{
+    border-bottom: 35px solid #B5222D;
+    height: 9px;
+}
+li:nth-child(3) a:hover{
+    border-bottom: 35px solid #D4953C;
+    height: 9px;
+}
